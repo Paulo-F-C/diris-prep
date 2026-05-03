@@ -1,0 +1,14 @@
+# Dados — nunca commitar CSVs grandes
+data/
+*.csv
+*.parquet
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ambiente
+.env
+*.env
